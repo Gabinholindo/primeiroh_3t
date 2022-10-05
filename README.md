@@ -1,8 +1,7 @@
 # Terceiro Trimestre
 
-
 ## Identificação
-Gabriel Jose Roberto-Nr. 07
+Jesus de Maringá - Nr. 50
 
 ## Conteúdo
-HTML,CSS e javascript
+HTML, CSS, javaScript
