@@ -1,7 +1,7 @@
 # Terceiro Trimestre
 
 ## Identificação
-Jesus de Maringá - Nr. 50
+Jesus - Nr. 50
 
 ## Conteúdo
-HTML, CSS, javaScript
+HTML, CSS e javaScript
