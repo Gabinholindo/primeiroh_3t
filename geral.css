@@ -1,1 +1,12 @@
+.calculadora {   
+    padding: 10px;
+    background-color: rgb(255, 60, 0);
+    width: 200px;
+}
+
+#btnCalc{
+    width:50px;
+    padding: 50px;
+    background-color: blue;
+}
 
