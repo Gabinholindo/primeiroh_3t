@@ -62,3 +62,5 @@ function total() {
 
     document.write("O Resultado é " + resultado);
 }
+
+
