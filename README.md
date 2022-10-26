@@ -1,7 +1,7 @@
 # Terceiro Trimestre
 
 ## Identificação
-Jesus - Nr. 50
+Gabriel Jose
 
 ## Conteúdo
 HTML, CSS e javaScript
