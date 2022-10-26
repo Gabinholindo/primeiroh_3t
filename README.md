@@ -1,7 +1,7 @@
-# Terceiro Trimestre
+#  Terceiro Trimestre
 
 ## Identificação
-Gabriel Jose
+Alexandre Gomes Sakai - Nr. 01
 
 ## Conteúdo
-HTML, CSS e javaScript
+HTML, CSS e javascript
